@@ -1,7 +1,7 @@
 # Cloudflare Workers Internship Application: Full-Stack
 
-Author: Ritesh Kumar
-Time: 04/13/20
+Author: Harsha Ravipudi
+Time: 04/13/22
 Worker URL: https://intern_project.my-intern.workers.dev/
 
 
